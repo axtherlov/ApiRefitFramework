@@ -9,5 +9,7 @@ namespace ApiFramework.Config
         public string Username { get; set; }
         public string Password { get; set; }
         public string PetBaseUrl { get; set; }
+        public string ClientId { get; set; }
+        public string ClientSecret { get; set; }
     }
 }

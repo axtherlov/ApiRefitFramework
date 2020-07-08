@@ -23,6 +23,8 @@ namespace ApiFramework.Config
             Settings.Username = testSettings.Username;
             Settings.Password = testSettings.Password;
             Settings.PetBaseUrl = testSettings.PetBaseUrl;
+            Settings.ClientId = testSettings.ClientId;
+            Settings.ClientSecret = testSettings.ClientSecret;
         }
     }
 }
